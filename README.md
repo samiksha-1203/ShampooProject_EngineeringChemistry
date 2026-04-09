@@ -72,12 +72,6 @@ https://www.figma.com/proto/ZBHD3CC1L5FDOAq4HJWGVE/Shampoo-subscription-app
 
 ---
 
-## 📊 Survey
-Survey Link:  
-https://forms.office.com/Pages/AnalysisPage.aspx
-
----
-
 
 ## 🙏 Acknowledgement
 We express our sincere gratitude to **Nilima Mam** for her valuable guidance and support throughout this project.
