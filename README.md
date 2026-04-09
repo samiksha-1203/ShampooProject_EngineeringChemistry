@@ -37,6 +37,11 @@ Hair and scalp generally prefer **slightly acidic pH (around 5 – 6)** for heal
 
 ---
 
+## 🎥 Project Demo
+
+<video src="ProjectVideo.mp4" controls width="600"></video>
+
+---
 
 ## 📊 Observations
 - Several commonly used shampoos were found to be **basic in nature**  
